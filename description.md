@@ -1,1 +1,1 @@
-¡Aprender a programar es una aventura! Y  estás por comenzarla :sunglasses:. En el camino te vas a encontrar con muchos desafíos, pero poco a poco, vas a superarlos :muscle:. En este viaje te van a estar acompañando ciertos personajes para ayudarte. ¿Quiénes son? No podemos decir más :zipper_mouth:, vas a tener que descubrirlo. ¡A programar!
+¿Te acordás que te contamos sobre los desafíos de este viaje? ¡Agregamos más para que te sigas divirtiendo! :tada: Una vez que termines este recorrido te vas a encontrar otro regalo :gift:. ¡Vamos!
