@@ -3,3 +3,5 @@
 </div>
 
 > UNÍ LAS PIEZAS PARA GUIAR LA PELOTA AL ARO.
+
+<img src="https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-primeros-programas-kinder-2/master/assets/match13_prog_no_1606504538216.png" alt="match13_prog_no_1606504538216.png" width="auto" height="auto">
