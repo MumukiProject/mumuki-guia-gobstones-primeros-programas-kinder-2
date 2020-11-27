@@ -7,5 +7,5 @@ Muzzle.match([
 ], [
   `${baseUrl}/match12_tab_b_1606503852741.svg`,
 ], [
-  `${baseUrl}/match12_prog_no_1606503827805.svg`,
+  `${baseUrl}/match13_tab_b_1606504300391.png`,
 ], [], 2); // double the right pieces' width
