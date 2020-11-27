@@ -5,7 +5,7 @@ Muzzle.strokeWidth = 6; // compensate the thinner stroke
 Muzzle.match([
   `${baseUrl}/match12_prog_si_1606503813212.svg`
 ], [
-  `${baseUrl}/match12_tab_b_1606503852741.svg`,/match12_tab_b_1606503852741.svg
+  `${baseUrl}/match12_tab_b_1606503852741.svg`,
 ], [
   `${baseUrl}/match12_prog_no_1606503827805.svg`,
 ], [], 2); // double the right pieces' width
