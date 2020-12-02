@@ -3,9 +3,9 @@ Muzzle.fitImagesVertically = true;
 Muzzle.aspectRatio = 2
 Muzzle.strokeWidth = 6; // compensate the thinner stroke
 Muzzle.match([
-  `${baseUrl}/match13_prog_si_1606504504585.png`
+  `${baseUrl}/match13_prog_si_1606932027385.svg`
 ], [
-  `${baseUrl}/match13_tab_b_1606504300391.png`,
+  `${baseUrl}/match13_tab_b_1606932056965.svg`,
 ], [
-  `${baseUrl}/match13_prog_no_1606504538216.png`,
+  `${baseUrl}/match13_prog_no_1606931944432.svg`,
 ], [], 2); // double the right pieces' width
