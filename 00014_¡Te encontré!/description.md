@@ -7,4 +7,4 @@
 
 <gs-attire attire-url="https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-primeros-programas-kinder/master/assets/attires/config_1604611106524.json"></gs-attire>
 
-> ENCONTRÁ LA FLECHA QUE SOBRA Y SACALA PARA HACER QUE EL CEPILLO LLEGUE AL DIENTE.
+> ENCONTRÁ LA FLECHA QUE SOBRA Y SACALA PARA GUIAR AL CEPILLO AL DIENTE.
