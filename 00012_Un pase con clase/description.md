@@ -6,4 +6,4 @@
 
 <gs-attire attire-url="https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-primeros-programas-kinder/master/assets/attires/config_1604610873423.json"></gs-attire>
 
-> HACÉ QUE LA PELOTA ENTRE EN EL ARO.
+> GUIÁ A LA PELOTA AL ARO.
