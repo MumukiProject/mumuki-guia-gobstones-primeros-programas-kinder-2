@@ -6,4 +6,4 @@
 
 <gs-attire attire-url="https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-primeros-programas-kinder/master/assets/attires/config_1604611351002.json"></gs-attire>
 
-GUIÁ AL TENEDOR A LA TORTA.
+> GUIÁ AL TENEDOR A LA TORTA.
