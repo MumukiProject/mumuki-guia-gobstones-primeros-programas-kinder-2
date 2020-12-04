@@ -8,6 +8,7 @@ language: gobstones
 id_format: "%05d"
 order:
 - 11
+- 20
 - 18
 - 19
 - 12
@@ -16,5 +17,4 @@ order:
 - 15
 - 16
 - 17
-- 20
 private: false
